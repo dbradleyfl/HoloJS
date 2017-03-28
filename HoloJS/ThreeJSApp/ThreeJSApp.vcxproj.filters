@@ -53,24 +53,18 @@
     <AppxManifest Include="Package.appxmanifest" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\Release_Win32\libGLESv2.dll" />
-    <None Include="..\Release_Win32\libEGL.dll" />
     <None Include="Scripts\app.js">
       <Filter>Scripts</Filter>
     </None>
     <None Include="Scripts\app.json">
       <Filter>Scripts</Filter>
     </None>
-    <None Include="Scripts\three.js">
-      <Filter>Scripts</Filter>
-    </None>
-    <None Include="Scripts\three-patches.js">
-      <Filter>Scripts</Filter>
-    </None>
     <None Include="Scripts\polyfills.js">
       <Filter>Scripts</Filter>
     </None>
     <None Include="ThreeJSApp_TemporaryKey.pfx" />
+    <None Include="..\Debug_Win32\libEGL.dll" />
+    <None Include="..\Debug_Win32\libGLESv2.dll" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Scripts\texture.png">

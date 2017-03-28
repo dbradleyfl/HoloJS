@@ -34,8 +34,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "translator_lib", "..\angle\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "translator_static", "..\angle\winrt\10\src\translator_static.vcxproj", "{195002A7-E979-7387-6C9C-CFFF03DB1775}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SampleApp", "SampleApp\SampleApp.vcxproj", "{3B340C0C-AD83-49C0-954D-B6B36F3078CA}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreeJSApp", "ThreeJSApp\ThreeJSApp.vcxproj", "{2EA1228F-38D2-481E-AF6E-87BAED33D906}"
 EndProject
 Global
@@ -92,12 +90,6 @@ Global
 		{195002A7-E979-7387-6C9C-CFFF03DB1775}.Debug|x86.Build.0 = Debug|Win32
 		{195002A7-E979-7387-6C9C-CFFF03DB1775}.Release|x86.ActiveCfg = Release|Win32
 		{195002A7-E979-7387-6C9C-CFFF03DB1775}.Release|x86.Build.0 = Release|Win32
-		{3B340C0C-AD83-49C0-954D-B6B36F3078CA}.Debug|x86.ActiveCfg = Debug|Win32
-		{3B340C0C-AD83-49C0-954D-B6B36F3078CA}.Debug|x86.Build.0 = Debug|Win32
-		{3B340C0C-AD83-49C0-954D-B6B36F3078CA}.Debug|x86.Deploy.0 = Debug|Win32
-		{3B340C0C-AD83-49C0-954D-B6B36F3078CA}.Release|x86.ActiveCfg = Release|Win32
-		{3B340C0C-AD83-49C0-954D-B6B36F3078CA}.Release|x86.Build.0 = Release|Win32
-		{3B340C0C-AD83-49C0-954D-B6B36F3078CA}.Release|x86.Deploy.0 = Release|Win32
 		{2EA1228F-38D2-481E-AF6E-87BAED33D906}.Debug|x86.ActiveCfg = Debug|Win32
 		{2EA1228F-38D2-481E-AF6E-87BAED33D906}.Debug|x86.Build.0 = Debug|Win32
 		{2EA1228F-38D2-481E-AF6E-87BAED33D906}.Debug|x86.Deploy.0 = Debug|Win32
